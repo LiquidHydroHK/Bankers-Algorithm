@@ -1,5 +1,5 @@
 # Bankers-Algorithm
-A semi-interactive CLI Safe Execution Sequence Calculator using Banker's Algorithm. This is not perfect yet but it gets the job done. There are some potential memory leak issues.
+A semi-interactive CLI Safe Execution Sequence Calculator using Banker's Algorithm. This is not perfect yet but it gets the job done. There are some potential memory leak issues. :sweat_smile:
 
 ### To run this calculator, 
 `g++ -o [your choice of name] BankersAlgorithm.cpp`
